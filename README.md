@@ -1,2 +1,2 @@
 # python-basic
-python exercise
+python 基础练习
